@@ -1,0 +1,7 @@
+user1,Strong_Password1
+user2,Aweek
+user3,Moderate9
+user4,Moderate2
+user5,Password1_Strong
+smith,If3#Ke0_Rw2@rudra,$Rp2812
+vraj,$jp12e12saf3r
